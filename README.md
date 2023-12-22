@@ -1,2 +1,6 @@
 # heart-disease-mortality-using-diabetes
-This CDC study explores links between diabetes, obesity, inactivity, and heart disease. Predictive models for obesity and inactivity falter, but a strong correlation exists between diabetes rates and heart disease mortality. Targeted diabetes interventions are crucial for prevention, supported by statistical analyses.
+This analysis focused on In order to lower diabetes rates and potentially prevent heart disease-related fatalities, this project Analysis emphasises the significance of focused interventions. How to Run:
+
+1) Obtain the.ipynb file.
+2) In block 2, modify the local path name.
+3) Execute each block's scripts
