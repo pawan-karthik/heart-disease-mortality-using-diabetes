@@ -1,5 +1,5 @@
 # heart-disease-mortality-using-diabetes
-This analysis focused on In order to lower diabetes rates and potentially prevent heart disease-related fatalities, this project Analysis emphasises the significance of focused interventions. How to Run:
+The analysis was centred around The results of this Analysis highlights the importance of targeted efforts to reduce diabetes prevalence and potentially minimise heart disease-related deaths. How to Run:
 
 1) Obtain the.ipynb file.
 2) In block 2, modify the local path name.
